@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="604887a8-dc55-4c16-af4b-7069c983c572" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,46 +84,72 @@
       <option name="presentableId" value="Default" />
       <updated>1596543467405</updated>
       <workItem from="1596543471631" duration="4749000" />
-      <workItem from="1596717417487" duration="2992000" />
+      <workItem from="1596717417487" duration="3585000" />
     </task>
+    <task id="LOCAL-00001" summary="msi">
+      <created>1596720886583</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596720886583</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="msi" />
+    <option name="LAST_COMMIT_MESSAGE" value="msi" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1970" y="225" key="#Notifications" timestamp="1596546683933">
       <screen x="1920" y="-229" width="900" height="1577" />
     </state>
     <state x="1970" y="225" key="#Notifications/0.23.1920.1057/1920.-229.900.1577@1920.-229.900.1577" timestamp="1596546683933" />
-    <state width="858" height="461" key="GridCell.Tab.0.bottom" timestamp="1596719287260">
+    <state x="1964" y="162" key="CommitChangelistDialog2" timestamp="1596720886426">
+      <screen x="1920" y="-252" width="900" height="1600" />
+    </state>
+    <state x="1964" y="162" key="CommitChangelistDialog2/0.23.1920.1057/1920.-252.900.1600@1920.-252.900.1600" timestamp="1596720886426" />
+    <state width="858" height="461" key="GridCell.Tab.0.bottom" timestamp="1596721321135">
       <screen x="1920" y="-252" width="900" height="1600" />
     </state>
     <state width="858" height="461" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.-252.900.1600@1920.-252.900.1600" timestamp="1596719287260" />
-    <state width="858" height="461" key="GridCell.Tab.0.center" timestamp="1596719287258">
+    <state width="858" height="461" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.-252.900.1600@1920.-252.900.1600" timestamp="1596721321135" />
+    <state width="858" height="461" key="GridCell.Tab.0.center" timestamp="1596721321133">
       <screen x="1920" y="-252" width="900" height="1600" />
     </state>
     <state width="858" height="461" key="GridCell.Tab.0.center/0.0.1920.1080/1920.-252.900.1600@1920.-252.900.1600" timestamp="1596719287258" />
-    <state width="858" height="461" key="GridCell.Tab.0.left" timestamp="1596719287257">
+    <state width="858" height="461" key="GridCell.Tab.0.center/0.23.1920.1057/1920.-252.900.1600@1920.-252.900.1600" timestamp="1596721321133" />
+    <state width="858" height="461" key="GridCell.Tab.0.left" timestamp="1596721321132">
       <screen x="1920" y="-252" width="900" height="1600" />
     </state>
     <state width="858" height="461" key="GridCell.Tab.0.left/0.0.1920.1080/1920.-252.900.1600@1920.-252.900.1600" timestamp="1596719287257" />
-    <state width="858" height="461" key="GridCell.Tab.0.right" timestamp="1596719287259">
+    <state width="858" height="461" key="GridCell.Tab.0.left/0.23.1920.1057/1920.-252.900.1600@1920.-252.900.1600" timestamp="1596721321132" />
+    <state width="858" height="461" key="GridCell.Tab.0.right" timestamp="1596721321134">
       <screen x="1920" y="-252" width="900" height="1600" />
     </state>
     <state width="858" height="461" key="GridCell.Tab.0.right/0.0.1920.1080/1920.-252.900.1600@1920.-252.900.1600" timestamp="1596719287259" />
+    <state width="858" height="461" key="GridCell.Tab.0.right/0.23.1920.1057/1920.-252.900.1600@1920.-252.900.1600" timestamp="1596721321134" />
     <state x="1920" y="398" key="SettingsEditor" timestamp="1596550767980">
       <screen x="1920" y="-229" width="900" height="1577" />
     </state>
     <state x="1920" y="398" key="SettingsEditor/0.23.1920.1057/1920.-229.900.1577@1920.-229.900.1577" timestamp="1596550767980" />
+    <state x="1970" y="299" key="Vcs.Push.Dialog.v2" timestamp="1596721393480">
+      <screen x="1920" y="-252" width="900" height="1600" />
+    </state>
+    <state x="1970" y="299" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.-252.900.1600@1920.-252.900.1600" timestamp="1596721393480" />
+    <state x="1970" y="299" key="Vcs.Push.Dialog.v2/0.23.1920.1057/1920.-252.900.1600@1920.-252.900.1600" timestamp="1596721351235" />
     <state x="2020" y="-129" width="700" height="1377" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1596719986682">
       <screen x="1920" y="-252" width="900" height="1600" />
     </state>
     <state x="2020" y="-129" width="700" height="1377" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1920.1057/1920.-252.900.1600@1920.-252.900.1600" timestamp="1596719986682" />
-    <state x="2086" y="358" key="git4idea.merge.GitPullDialog" timestamp="1596720742145">
+    <state x="2086" y="358" key="git4idea.merge.GitPullDialog" timestamp="1596721337068">
       <screen x="1920" y="-252" width="900" height="1600" />
     </state>
     <state x="2086" y="358" key="git4idea.merge.GitPullDialog/0.0.1920.1080/1920.-252.900.1600@1920.-252.900.1600" timestamp="1596720742145" />
+    <state x="2086" y="358" key="git4idea.merge.GitPullDialog/0.23.1920.1057/1920.-252.900.1600@1920.-252.900.1600" timestamp="1596721337068" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/execise$first_python.coverage" NAME="first_python Coverage Results" MODIFIED="1596719287244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/first_python" />
